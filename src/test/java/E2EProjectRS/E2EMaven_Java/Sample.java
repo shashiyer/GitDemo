@@ -7,6 +7,7 @@ public class Sample {
 		System.out.println("Comment added");
 		System.out.println("New comment");
 		System.out.println("New comment 1");
+		System.out.println("Anothr comment");
 	}
 
 }
